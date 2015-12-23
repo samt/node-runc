@@ -1,0 +1,27 @@
+{
+  "name": "runc",
+  "version": "0.0.1",
+  "description": "interface to runc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samt/node-runc.git"
+  },
+  "keywords": [
+    "runc",
+    "opencontainers",
+    "container",
+    "containers",
+    "linux",
+    "lxc"
+  ],
+  "author": "Sam Thompson <git@samt.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samt/node-runc/issues"
+  },
+  "homepage": "https://github.com/samt/node-runc#readme"
+}
